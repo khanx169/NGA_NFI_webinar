@@ -4,7 +4,7 @@
 
 __Revamped version of my [Intro. to Deep Learning Tutorial](https://github.com/khanx169/hal_tutorial) for the New Frontiers Initiative Webinar Series. More info at: https://bluewaters.ncsa.illinois.edu/NFI/Webinars/DeepLearning __
 
-This tutorial covers the basics of Deep Learning with Convolutional Neural Nets. The tutorial is broken into three notebooks. The topics covered in each notebook are:
+This tutorial covers the basics of Deep Learning with Convolutional Neural Nets. The tutorial is broken into four notebooks. The topics covered in each notebook are:
 
 1. **Intro.ipynb**: 
 
