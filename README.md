@@ -1,6 +1,6 @@
 # Hands-on Introduction to Deep Learning and Computer Vision
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khanx169/hal_tutorial/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khanx169/NGA_NFI_webinar/)
 
 __Revamped version of my [Intro. to Deep Learning Tutorial](https://github.com/khanx169/hal_tutorial) for the New Frontiers Initiative Webinar Series. More info at: https://bluewaters.ncsa.illinois.edu/NFI/Webinars/DeepLearning __
 
